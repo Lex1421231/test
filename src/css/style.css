@@ -2,33 +2,16 @@ body {
     background-color: blanchedalmond;
 }
 
-.content {
-    display: inline;
-
+.about {
+    display: block;
 }
 
-.img__for__me {
-    display: inline;
-    margin: auto;
+.abouttext {
+    margin: 16px;
+}
+
+.My__img {
     margin-top: 10px;
-    height: 100%;
     width: 100%;
-
-}
-
-.img__for__you {
-    display: inline;
-    margin: auto;
     height: 100%;
-    width: 100%;
-}
-
-.text {
-    display: block;
-    margin: 16px;
-}
-
-.textt {
-    display: block;
-    margin: 16px;
 }
